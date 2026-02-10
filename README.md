@@ -7,8 +7,3 @@ classification of Acid-Fast Bacilli (AFB) microscopy images.
 - Python scripts for inference and preprocessing
 - Jupyter notebooks for experiments and analysis
 
-## Dataset
-The dataset is not included in this repository and is available upon request.
-
-## Model Weights
-Pretrained model weights are not included due to size constraints.
