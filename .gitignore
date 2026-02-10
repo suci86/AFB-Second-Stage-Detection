@@ -1,0 +1,14 @@
+# Dataset
+images_detection/
+*.jpg
+*.png
+
+# Model weights
+*.pt
+
+# Notebook cache
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+.venv/
